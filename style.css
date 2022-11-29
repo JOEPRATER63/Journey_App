@@ -1,0 +1,15 @@
+/* Joseph Prater github.com/JOEPRATER63
+11/28/2022
+Style sheet for Journey Healthcare Solutions */
+
+#hourInput {
+    text-align: center;
+    /* background-color: aqua; */
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+#foot {
+    margin-top: 330px;
+    text-align: center;
+}
